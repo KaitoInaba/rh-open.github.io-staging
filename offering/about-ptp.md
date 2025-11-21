@@ -22,4 +22,4 @@ Red Hat Partner Training Portal(以下、PTP)は、Red Hat提供するパート�
 |Video|動画コース|
 |Channel|技術やサービスで纏められた各種コンテンツのセット。サブスクライブして利用|
 
-ご利用方法については、貴社のRed Hat製品主幹部、ご不明な場合は貴社担当のRed Hat営業までご確認下さい。
+ご利用方法については、貴社のRed Hat製品主管部、ご不明な場合は貴社担当のRed Hat営業までご確認下さい。
